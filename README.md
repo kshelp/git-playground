@@ -1,2 +1,3 @@
 # git-playground
-1. 허종
+1. 맥쌤
+2. 허종
