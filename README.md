@@ -1,2 +1,4 @@
 # git-playground
-1. Leesunyung
+1. 맥쌤
+2. 서녕이
+
