@@ -1,2 +1,6 @@
 # git-playground
-1. yoonsung
+<<<<<<< HEAD
+1. 맥쌤
+=======
+2. yoonsung
+>>>>>>> origin/main
