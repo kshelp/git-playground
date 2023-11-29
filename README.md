@@ -1,2 +1,3 @@
 # git-playground
-1. 아미
+1. 맥쌤
+2. 아미
